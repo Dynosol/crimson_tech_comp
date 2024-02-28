@@ -31,12 +31,10 @@ export default function Modal() {
             top: '50%',
             left: '50%',
             transform: 'translate(-50%, -50%)',
-            backgroundColor: '#fff',
             width: '20rem',
             height: '20rem',
             padding: '1rem',
-            border: '1px solid #ccc',
-            borderRadius: '5px',
+            border: '1px solid',
           }}
         >
           Modal content

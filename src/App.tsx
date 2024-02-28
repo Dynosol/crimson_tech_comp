@@ -53,7 +53,7 @@ function App() {
           onChange={(e) => setTaskInput(e.target.value)} 
           placeholder="Enter task" 
         />
-        <button type="submit">Create Task</button> {/* Use type="submit" for form submission */}
+        <button type="submit">Create Task</button>
       </form>
 
       <Modal />
